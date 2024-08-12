@@ -1,7 +1,3 @@
-Claro! Aqui está um exemplo de um `README.md` para um projeto de sistema de agendamento de consultas médicas. Usei uma estrutura simples e emojis para tornar o documento visualmente atraente.
-
----
-
 # Medical Appointment Scheduling System 🏥📅
 
 Welcome to the Medical Appointment Scheduling System! This system allows patients to schedule, manage, and track their medical appointments easily and efficiently.
@@ -25,7 +21,7 @@ Welcome to the Medical Appointment Scheduling System! This system allows patient
 1. **Clone the repository**:
 
    ```bash
-   git clone (https://github.com/elisio42/medical_appointment.git)
+   git clone https://github.com/elisio42/medical_appointment.git
    ```
 
 2. **Navigate to the project directory**:
@@ -79,12 +75,8 @@ We welcome contributions! To contribute:
 
 ## License 📜
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact 📧
 
-For any questions or issues, please contact [your-email@example.com](mailto:your-email@example.com).
+For any questions or issues, please contact [email](elisiouiux@gmail.com).
 
 ---
-
-Feel free to customize this template according to your specific project details!
