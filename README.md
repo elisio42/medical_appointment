@@ -1,56 +1,47 @@
 # Medical Appointment Scheduling System 🏥📅
 
-Welcome to the Medical Appointment Scheduling System! This system allows patients to schedule, manage, and track their medical appointments easily and efficiently.
+Welcome to the Medical Appointment Scheduling System! This platform is designed to simplify the scheduling, management, and tracking of medical appointments for both patients and administrators.
 
 ## Features ✨
 
-👉 Register as a Patient: Users can sign up and create a personal profile as a patient.
-
-👉 Book a New Appointment with Doctor: Patients can schedule appointments with doctors at their convenience and can book multiple appointments.
-
-👉 Manage Appointments on Admin Side: Administrators can efficiently view and handle all scheduled appointments.
-
-👉 Confirm/Schedule Appointment from Admin Side: Admins can confirm and set appointment times to ensure they are properly scheduled.
-
-👉 Cancel Appointment from Admin Side: Administrators have the ability to cancel any appointment as needed.
-
-👉 Send SMS on Appointment Confirmation: Patients receive SMS notifications to confirm their appointment details.
-
-👉 Complete Responsiveness: The application works seamlessly on all device types and screen sizes.
-
-👉 File Upload Using Appwrite Storage: Users can upload and store files securely within the app using Appwrite storage services.
-
-👉 Manage and Track Application Performance Using Sentry: The application uses Sentry to monitor and track its performance and detect any errors.
+- **Patient Registration**: Create and manage your personal profile with ease.
+- **Book New Appointments**: Schedule and manage appointments with doctors at your convenience. You can book multiple appointments.
+- **Admin Management**: Administrators can view, confirm, and manage all appointments efficiently.
+- **Appointment Confirmation**: Admins can confirm and set appointment times, ensuring accurate scheduling.
+- **Appointment Cancellation**: Easily cancel any appointment as needed from the admin side.
+- **SMS Notifications**: Receive SMS notifications to confirm your appointment details.
+- **Responsive Design**: Enjoy seamless access across all device types and screen sizes.
+- **File Upload**: Securely upload and store files using Appwrite storage services.
+- **Performance Monitoring**: Track application performance and detect errors with Sentry.
 
 ## Getting Started 🚀
 
 ### Prerequisites
 
-- **Node.js**: Ensure you have Node.js installed. You can download it from [nodejs.org](https://nodejs.org/).
+- **Node.js**: Ensure Node.js is installed. Download it from [nodejs.org](https://nodejs.org/).
 - **Database**: Appwrite.
 
 ### Installation
 
-1. **Clone the repository**:
+1. **Clone the Repository**:
 
    ```bash
    git clone https://github.com/elisio42/medical_appointment.git
    ```
 
-2. **Navigate to the project directory**:
+2. **Navigate to the Project Directory**:
 
    ```bash
    cd medical_appointment
    ```
 
-3. **Install dependencies**:
+3. **Install Dependencies**:
 
    ```bash
    npm install
    ```
 
-
-4. **Run the application**:
+4. **Run the Application**:
 
    ```bash
    npm run dev
@@ -58,38 +49,42 @@ Welcome to the Medical Appointment Scheduling System! This system allows patient
 
 ## Usage 🛠️
 
-1. **Open your browser** and go to `http://localhost:3000` to access the application.
-2. **Create an account** and have funny.
+1. **Open Your Browser**: Go to `http://localhost:3000` to access the application.
+2. **Create an Account**: Sign up and start managing your appointments.
 
 ## Contributing 🤝
 
 We welcome contributions! To contribute:
 
-1. **Fork the repository**.
-2. **Create a feature branch**:
+1. **Fork the Repository**.
+2. **Create a Feature Branch**:
 
    ```bash
    git checkout -b feature/your-feature-name
    ```
 
-3. **Commit your changes**:
+3. **Commit Your Changes**:
 
    ```bash
    git commit -m "Add feature: your feature description"
    ```
 
-4. **Push to the branch**:
+4. **Push to the Branch**:
 
    ```bash
    git push origin feature/your-feature-name
    ```
 
-5. **Open a pull request** on GitHub.
+5. **Open a Pull Request** on GitHub.
 
 ## License 📜
 
+This project is licensed under the MIT License.
+
 ## Contact 📧
 
-For any questions or issues, please contact [email](elisiouiux@gmail.com).
+For questions or issues, please contact us at [elisiouiux@gmail.com](mailto:elisiouiux@gmail.com).
 
 ---
+
+Feel free to reach out if you need further modifications or have additional requests!
